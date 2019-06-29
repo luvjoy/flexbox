@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+article{
+    flex: 1 200px;
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    padding-top: 10px;
+    width: 200px;
+}
